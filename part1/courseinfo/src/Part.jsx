@@ -1,4 +1,4 @@
-const Content = (props) => {
+const Part = (props) => {
   return (
     <div>
       <p>
@@ -8,4 +8,4 @@ const Content = (props) => {
   );
 };
 
-export default Content;
+export default Part;
